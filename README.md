@@ -4,5 +4,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pendragon-974&theme=dracula&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-## # Projects
+## # Projects 🛠️
 - Curse Of Legends
