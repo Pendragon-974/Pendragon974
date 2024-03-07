@@ -5,4 +5,4 @@
 [![Statistique de Pendragon974](https://streak-stats.demolab.com?user=Pendragon-974&theme=dracula&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## # Projects 🛠️
-- Curse Of Legends
+- Curse of Legends
